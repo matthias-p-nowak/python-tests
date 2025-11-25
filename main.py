@@ -1,4 +1,4 @@
-from pyt.pyt import main
+from pyt.main import main
 
 if __name__ == "__main__":
     main()
