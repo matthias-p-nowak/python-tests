@@ -7,3 +7,5 @@ setup(
     version="0.1",
     ext_modules=[module],
 )
+
+print("setup.py loaded")
